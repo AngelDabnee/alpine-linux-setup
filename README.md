@@ -45,3 +45,5 @@ ssh-add
 
 ## YouTube Video where I was based:
 * https://youtu.be/X_T-cKum8dc
+* ![imagen](https://github.com/AngelDabnee/alpine-linux-setup/assets/114833669/9f9a4f0b-f484-4c0a-847b-3d6349316041)
+
