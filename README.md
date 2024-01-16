@@ -29,6 +29,7 @@ Alpine Linux Setup
 * `cd alpine-linux-setup`
 
 ## Execute code-server container
+* `git checkout headless-noroot`
 * `cd dev-containers`
 * `./code-server.sh`
 
